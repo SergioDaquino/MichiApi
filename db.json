@@ -62,8 +62,13 @@
         },
         {
             "id":13,
-            "nombre":"Nutrique",
+            "nombre":"Gati",
             "precio":"83"
+        },
+        {
+            "id":14,
+            "nombre":"Nutrique",
+            "precio":"105"
         }
     ]
 }
