@@ -1,10 +1,11 @@
 {
-  "name": "michiapi-json",
+  "name": "michiapi",
   "version": "1.0.0",
-  "scripts": {
-    "start": "json-server --watch db.json --port 3000"
-  },
+  "type": "module",
   "dependencies": {
     "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
